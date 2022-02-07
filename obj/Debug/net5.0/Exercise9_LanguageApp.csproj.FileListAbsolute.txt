@@ -1,0 +1,16 @@
+C:\GCBootcamp\gcbc_exercises\Exercise9_LanguageApp\bin\Debug\net5.0\Exercise9_LanguageApp.exe
+C:\GCBootcamp\gcbc_exercises\Exercise9_LanguageApp\bin\Debug\net5.0\Exercise9_LanguageApp.deps.json
+C:\GCBootcamp\gcbc_exercises\Exercise9_LanguageApp\bin\Debug\net5.0\Exercise9_LanguageApp.runtimeconfig.json
+C:\GCBootcamp\gcbc_exercises\Exercise9_LanguageApp\bin\Debug\net5.0\Exercise9_LanguageApp.runtimeconfig.dev.json
+C:\GCBootcamp\gcbc_exercises\Exercise9_LanguageApp\bin\Debug\net5.0\Exercise9_LanguageApp.dll
+C:\GCBootcamp\gcbc_exercises\Exercise9_LanguageApp\bin\Debug\net5.0\ref\Exercise9_LanguageApp.dll
+C:\GCBootcamp\gcbc_exercises\Exercise9_LanguageApp\bin\Debug\net5.0\Exercise9_LanguageApp.pdb
+C:\GCBootcamp\gcbc_exercises\Exercise9_LanguageApp\obj\Debug\net5.0\Exercise9_LanguageApp.csproj.AssemblyReference.cache
+C:\GCBootcamp\gcbc_exercises\Exercise9_LanguageApp\obj\Debug\net5.0\Exercise9_LanguageApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\GCBootcamp\gcbc_exercises\Exercise9_LanguageApp\obj\Debug\net5.0\Exercise9_LanguageApp.AssemblyInfoInputs.cache
+C:\GCBootcamp\gcbc_exercises\Exercise9_LanguageApp\obj\Debug\net5.0\Exercise9_LanguageApp.AssemblyInfo.cs
+C:\GCBootcamp\gcbc_exercises\Exercise9_LanguageApp\obj\Debug\net5.0\Exercise9_LanguageApp.csproj.CoreCompileInputs.cache
+C:\GCBootcamp\gcbc_exercises\Exercise9_LanguageApp\obj\Debug\net5.0\Exercise9_LanguageApp.dll
+C:\GCBootcamp\gcbc_exercises\Exercise9_LanguageApp\obj\Debug\net5.0\ref\Exercise9_LanguageApp.dll
+C:\GCBootcamp\gcbc_exercises\Exercise9_LanguageApp\obj\Debug\net5.0\Exercise9_LanguageApp.pdb
+C:\GCBootcamp\gcbc_exercises\Exercise9_LanguageApp\obj\Debug\net5.0\Exercise9_LanguageApp.genruntimeconfig.cache
